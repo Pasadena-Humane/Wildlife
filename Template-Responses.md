@@ -334,8 +334,8 @@ Great news! This opossum is old enough to be on its own. This is the age that th
 
 Thank you for your consideration and support.
 ```
-![opo dollar 1 image](assets/images/opossum-dollar-1.jpg)
-![opo dollar 2 image](assets/images/opossum-dollar-2.jpg)
+<img width="600" height="auto" alt="opossum-dollar" src="https://github.com/user-attachments/assets/fd2a750d-da1b-4187-a407-342f2b67b8a8" />
+
 # Peafowl Deterrents
 ```
 Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. This flyer includes information and helpful tips: 
@@ -417,23 +417,18 @@ Please contact us after 9:30 AM if the baby is still there. If its condition dec
 ```
 ### Shoe box/container examples:
 
-![shoebox image](assets/images/squirrel-reunite-shoebox.jpg)
-
-![basket image](assets/images/squirrel-reunite-basket.jpg)
-
-![jug image](assets/images/squirrel-reunite-jug.jpg)
+<img width="600" height="auto" alt="squirrel nest" src="https://github.com/user-attachments/assets/2aaf30be-6aed-4e01-854e-ac4e844af1b2" />
 
 ### Makeshift heating pad example:
 
-![sock image](assets/images/squirrel-reunite-sock.jpg)
+<img width="494" height="auto" alt="squirrel-reunite-sock" src="https://github.com/user-attachments/assets/cec2a6dc-78d8-4697-8e0f-6f14897f4ee6" />
 
 ### Reunited examples:
 
-![squirrel reunited image](assets/images/squirrel-reunite-parent.jpg)
+<img width="600" height="auto" alt="squirrel-reunite-parent" src="https://github.com/user-attachments/assets/9bbaac2c-0f06-449c-8b81-46a965dedc7d" />
 
-[Squirrel reunited video # 1](assets/videos/squirrel-reunite-1.MOV) (click to download)
-
-[Squirrel reunited video # 2](assets/videos/squirrel-reunite-2.MOV) (click to download)
+* [Squirrel reunited video # 1](assets/videos/squirrel-reunite-1.MOV) (click to download)
+* [Squirrel reunited video # 2](assets/videos/squirrel-reunite-2.MOV) (click to download)
 
 # Update on Animal
 ```
