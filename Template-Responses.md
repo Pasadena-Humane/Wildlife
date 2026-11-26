@@ -1,51 +1,53 @@
 These are template responses to common Requesting Party's (RP) text messages. Customize them as needed.
 
-**Contents**
-- [First Response - Distressed Animal](#first-response---distressed-animal)
-- [After Hours](#after-hours)
-- [Animals in Crawl Spaces/Attics/Eviction](#animals-in-crawl-spacesatticseviction)
-- [Avian Influenza](#avian-influenza)
-- [Bear Info](#bear-info)
-- [Bee Keepers](#bee-keepers)
-- [Bird](#bird)
-  - [Nestling General](#nestling-general)
-  - [Nestling Reunite](#nestling-reunite)
-  - [Fledgling Response](#fledgling-response)
-  - [Window Strike Bird (with no obvious injuries)](#window-strike-bird-with-no-obvious-injuries)
-- [Bobcat Info](#bobcat-info)
-- [Coyote Info](#coyote-info)
-  - [Coyote Still Mobile](#coyote-still-mobile)
-  - [Coyote With Mange](#coyote-with-mange)
-- [Dead or Deceased Pickup](#dead-or-deceased-pickup)
-- [Deer Still Mobile](#deer-still-mobile)
-- [Donate](#donate)
-- [Ducks (Mallards)](#ducks-mallards)
-  - [Ducks in Yards and Pools](#ducks-in-yards-and-pools)
-  - [Legal Protections](#legal-protections)
-- [ETA](#ETA)
-- [Humane Exclusion Service](#humane-exclusion-service)
-- [Humane Pest Control - Rats](#humane-pest-control---rats)
-- [If RP Only Left Voicemail](#if-rp-only-left-voicemail)
-- [Illegal for Public to Rehab](#illegal-for-public-to-rehab)
-- [Illegal to Relocate](#illegal-to-relocate)
-- [Meet in Goodwill Parking](#meet-in-goodwill-parking)
-- [Not in Our Service Area](#not-in-our-service-area)
-- [Opossum](#opossum)
-  - [Dollar bill size and larger (if uninjured)](#dollar-bill-size-and-larger-if-uninjured)
-- [Peafowl Deterrents](#peafowl-deterrents)
-- [Predation Event](#predation-event)
-- [Raccoon](#raccoon)
-  - [Baby (if uninjured)](#baby-if-uninjured)
-- [Rabbit RHDV](#rabbit-rhdv)
-- [Rats or Mice](#rats-or-mice)
-- [Skunk](#skunk)
-  - [Baby (if uninjured)](#baby-if-uninjured-1)
-- [Snake ID](#snake-id)
-- [Squirrel](#squirrel)
-  - [If found in the AM](#if-found-in-the-am)
-  - [If found in the late PM and it looks fine](#if-found-in-the-late-pm-and-it-looks-fine)
-- [Update on Animal](#update-on-animal)
-- [Will You Treat the Animal or Just Kill It?](#will-you-treat-the-animal-or-just-kill-it)
+# Contents
+### General
+* [First Response - Send WRMD Form](#first-response---send-wrmd-form)
+* [After Hours - Send WRMD Form](#after-hours---send-wrmd-form)
+* [Donate](#donate)
+* [ETA?](#eta)
+* [Humane Exclusion Service](#humane-exclusion-service)
+* [Humane Pest Control - Rats](#humane-pest-control---rats)
+* [Illegal for Public to Rehab](#illegal-for-public-to-rehab)
+* [Illegal to Relocate](#illegal-to-relocate)
+* [Meet in Goodwill Parking](#meet-in-goodwill-parking)
+* [Not in Our Service Area](#not-in-our-service-area)
+* [Update on Animal](#update-on-animal)
+* [Will You Treat the Animal or Just Kill It?](#will-you-treat-the-animal-or-just-kill-it)
+
+
+### Animals
+* [Avian Influenza](#avian-influenza)
+* [Bears](#bears)
+* [Bees](#bees)
+* [Birds](#birds)
+   * [Nestlings](#nestlings)
+   * [Nestling Re-nesting](#nestling-re-nesting)
+   * [Fledglings](#fledglings)
+   * [Window Strike Bird (with no obvious injuries)](#window-strike-bird-with-no-obvious-injuries)
+* [Bobcats](#bobcats)
+* [Coyotes](#coyotes)
+* [Dead Animals](#dead-animals)
+* [Deer](#deer)
+* [Ducks](#ducks)
+   * [Ducks in Yards and Pools](#ducks-in-yards-and-pools)
+   * [Legal Protections](#legal-protections)
+* [Opossum](#opossum)
+   * [Dollar bill size and larger (if uninjured)](#dollar-bill-size-and-larger-if-uninjured)
+* [Peafowl Deterrents](#peafowl-deterrents)
+* [Predation Event](#predation-event)
+* [Rabbit RHDV](#rabbit-rhdv)
+* [Raccoon](#raccoon)
+* [Rats and Mice](#rats-and-mice)
+* [Skunk](#skunk)
+   * [Uninjured Baby](#uninjured-baby-1)
+* [Snakes](#snakes)
+* [Squirrel](#squirrel)
+   * [If found in the AM](#if-found-in-the-am)
+   * [If found in the PM and it looks healthy](#if-found-in-the-pm-and-it-looks-healthy)
+   * [Shoe box/container examples:](#shoe-boxcontainer-examples)
+   * [Makeshift heating pad example:](#makeshift-heating-pad-example)
+   * [Reunited examples:](#reunited-examples)
 
 # First Response - Send WRMD Form
 ```
@@ -90,7 +92,7 @@ Small children and pets must be supervised at all times while outside, dogs kept
 
 You may email wildlife@pasadenahumane.org with any further questions. Thank you for your consideration and support.
 ```
-# Bee Keepers
+# Bees
 ```
 Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We do not handle Bees, so we would refer you to service providers that may take care of your Bee situation. Please note that they will likely charge a fee for this service.
 
@@ -123,13 +125,13 @@ Lea and Leon Johnson
 - Email: leajohnson@yahoo.com
 ```
 # Birds
-## Nestlings
+### Nestlings
 ```
 It appears that this is a healthy nestling. The best thing you may do for this bird is to reunite the baby back with its parents. The parents are able to provide round the clock care for the baby and they do a better job of taking care of it than any human could. Please follow the steps in this flowchart linked here:
 
 https://pasadenahumane.org/wp-content/uploads/2021/02/Baby-Bird-Flow-Chart_2021.pdf
 ```
-## Nestling Re-nesting
+### Nestling Re-nesting
 ```
 It appears that this a nestling and its legs might not be strong enough to stand or walk on its own. The best thing you may do for this bird is to re-nest it and see if its parents are still around. 
 
@@ -139,12 +141,12 @@ Please do not feed the baby and do not check up on it more than once every 2 hou
 ```
 * More details in the [Nestling Reunite Script](Nestling-Reunite-Script).
 * More details in [Making a Nest](Making-a-Nest).
-## Fledgling Response
+### Fledglings
 ```
-It appears that this is a fledgling. At this age they start hopping out of their nest and learning how to fly. These fledglings may stay on the ground for up to 2 weeks before they gain the muscles and learn to fly away. The parents are still around to feed and take care of it, so you should release it under some natural covering nearest to where you found it. It only takes a few seconds for the parents to come back and feed it each time, so it's easy to miss. Please do not feed the bird or check up on it more than once every 2 hours, as this will scare the parents away. Please let us know if you see that the fledgling's condition deteriorates, closing its eyes for long periods, or if it can no longer sit up. Thank you for your efforts.
+It appears that this is a fledgling. At this age they start hopping out of their nest and learning how to fly. These fledglings may stay on the ground for up to 2 weeks before they gain the muscles and learn to fly away. The parents are still around to feed and take care of it, so you should release it under some natural covering nearest to where you found it. It only takes a few seconds for the parents to come back and feed it each time, so it's easy to miss. Please do not feed the bird or check up on it more than once every 2 hours, as this will scare the parents away. Please let us know if you see that the fledgling's condition deteriorates, closing its eyes for long periods, or if it may no longer sit up. Thank you for your efforts.
 ```
-## Window Strike Bird (with no obvious injuries)
-- We can admit these for supportive care. RP can drop-off or dispatch ACO.
+### Window Strike Bird (with no obvious injuries)
+- We may admit these for supportive care.
 
 # Bobcats
 ```
@@ -152,13 +154,13 @@ Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. This fly
 
 https://pasadenahumane.org/wp-content/uploads/2023/04/23_4_Wildlife-Flyers_Web_Bobcat.pdf
 
-Bobcats are native wildlife and are free to roam as determined under the jurisdiction of the Department of Fish and Wildlife; Pasadena Humane is not authorized to trap or relocate them. They are also a valuable part of our ecosystem, keeping rodent populations down and providing free carrion removal, among other benefits. Bobcats are opportunistic carnivores and will eat whatever they can catch. Although they prefer rabbits and rodents, bobcats will also eat small reptiles, birds, feral cats, eggs, and occasionally deer and small livestock. Bobcats do most of their hunting at dawn, dusk, and through the night, but will come out whenever it is most convenient for them to find resources.
+Bobcats are native wildlife and are free to roam as determined under the jurisdiction of the Department of Fish and Wildlife; Pasadena Humane is not authorized to trap or relocate them. They are also a valuable part of our ecosystem, keeping rodent populations down and providing free carrion removal, among other benefits. Bobcats are opportunistic carnivores and will eat whatever they may catch. Although they prefer rabbits and rodents, bobcats will also eat small reptiles, birds, feral cats, eggs, and occasionally deer and small livestock. Bobcats do most of their hunting at dawn, dusk, and through the night, but will come out whenever it is most convenient for them to find resources.
 
 Bobcats go where there are resources, and their behavior changes based on how humans react to them - so it is imperative we avoid intentionally or unintentionally providing food, water, or shelter to bobcats.
 
 Hazing bobcats whenever they are on our properties or near people is the only sustainable and effective way to alter unwanted behavior. We should take every opportunity to make bobcats uncomfortable around humans by hazing them with things like loud noises (i.e. air horns, banging pots and pans), squirting them with a hose, quickly opening and closing an umbrella, etc.
 
-In Southern California, bobcats only grow on average to around 20 lbs and do not naturally see humans (even children) as prey - their natural instinct is to fear humans and tend to be solitary and shy. Children should be taught how to haze. Passive hazing devices like motion-sensing sprinklers and coyote rollers for fences help deter bobcats and other wildlife when you are not home.
+In Southern California, bobcats only grow on average to around 20 pounds and do not naturally see humans (even children) as prey - their natural instinct is to fear humans and tend to be solitary and shy. Children should be taught how to haze. Passive hazing devices like motion-sensing sprinklers and coyote rollers for fences help deter bobcats and other wildlife when you are not home.
 
 We recommend children and pets be supervised at all times while outside, dogs be kept close by and on 6 ft or shorter leashes, and cats be kept indoors or provided an enclosed catio for safety.
 
@@ -176,7 +178,7 @@ Coyotes go where there are resources, and their behavior changes based on how hu
 
 Consistently hazing coyotes whenever they are on your property or near people continuously until they have left the area is the only sustainable and effective way to alter unwanted behavior. We should take every opportunity to make coyotes uncomfortable by hazing them with things like loud noises (i.e. air horns, banging pots and pans), squirting them with a hose, quickly opening and closing an umbrella, etc. NEVER turn your back or run from coyotes. 
 
-In Southern California, coyotes only grow up to about 35 lbs and do not naturally see humans (even children) as prey. It is their instinct is to fear humans. Children should be taught how to haze coyotes under adult supervision. Dogs should always be kept close by and on 6ft or shorter leashes when outside. Cats should be kept indoors at all times or given a Catio for their safety and comfort. Passive hazing devices like motion-sensing sprinklers and coyote rollers atop 6 foot fences help deter coyotes and other wildlife when you are not home.
+In Southern California, coyotes only grow up to about 35 pounds and do not naturally see humans (even children) as prey. It is their instinct is to fear humans. Children should be taught how to haze coyotes under adult supervision. Dogs should always be kept close by and on 6ft or shorter leashes when outside. Cats should be kept indoors at all times or given a Catio for their safety and comfort. Passive hazing devices like motion-sensing sprinklers and coyote rollers atop 6 foot fences help deter coyotes and other wildlife when you are not home.
 
 Our website here has more information:
 https://pasadenahumane.org/services/wildlife/
@@ -203,15 +205,15 @@ You may email wildlife@pasadenahumane.org with any further questions. Thank you 
 ```
 # Donate
 ```
-Thank you for assisting wildlife in distress. Your ongoing support is vital to the wildlife in our community. As a non-profit organization, we rely on donations to care for the thousands of wild animals who need our care each year. Please consider giving today to help ensure we can continue this critical program:
+Thank you for assisting wildlife in distress. Your ongoing support is vital to the wildlife in our community. As a non-profit organization, we rely on donations to care for the thousands of wild animals who need our care each year. Please consider giving today to help ensure we may continue this critical program:
 
 https://pasadenahumane.org/supportwildlife
 ```
-# Ducks (Mallards)
+# Ducks
 
-## Ducks in Yards and Pools
+### Ducks in Yards and Pools
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Your yard or pool might be an inviting place for ducks to rest or build a nest. Water features, vegetation, and quiet spaces can make it an ideal spot for them to raise a brood. Below are tips for how to respond when ducks have made your yard or pool their temporary home.
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Your yard or pool might be an inviting place for ducks to rest or build a nest. Water features, vegetation, and quiet spaces may make it an ideal spot for them to raise a brood. Below are tips for how to respond when ducks have made your yard or pool their temporary home.
 
 If You Have Nesting Ducks in Your Yard:
 - Enjoy watching the wildlife and observe their behavior from a distance.
@@ -238,7 +240,7 @@ If You Discover a Duck Nest:
 - Once eggs are laid, the nest becomes protected by federal law and may not be disturbed.
 
 If Ducks Are Trapped in an Enclosed Yard:
-- Open a gate or path so the ducks can leave on their own.
+- Open a gate or path so the ducks may leave on their own.
 - Gently guide them toward the exit, but do not scare the mother away from her ducklings.
 - If you cannot safely guide the ducks out, contact a licensed wildlife rehabilitator for help.
 
@@ -246,9 +248,9 @@ Nests with Eggs or Ducklings Are Protected:
 - Once eggs are laid, the nest becomes protected by federal law and may not be disturbed.
 - Ducklings usually hatch after about 25 days. Within 24 hours of hatching, the mother will lead them to water.
 - During this time, keep pets and children away from the duck family.
-
-## Legal Protections
-
+```
+### Legal Protections
+```
 Ducks/Mallards are protected under the Migratory Bird Treaty Act of 1918.
 
 It is illegal to:
@@ -260,20 +262,20 @@ If You See Injured or Distressed Ducks:
 - If a duck appears injured (limping, unable to fly, bleeding, or stuck), or if ducklings are orphaned or abandoned, please let us know.
 - Do not attempt to capture or care for injured ducks yourself unless instructed to do so - it’s easy to accidentally cause more harm.
 ```
-# ETA
+# ETA?
 ```
 Unfortunately, we are unable to give an ETA since it depends on various factors, but an animal control officer has been dispatched. It typically takes roughly 30 minutes to 3 hours for them to arrive.
 
-If you need to leave, you may safely place the animal in a box on your porch (or another accessible spot) for pickup. If you cannot confine it, please let us know what time you will be back so an officer can meet you then.
+If you need to leave, you may safely place the animal in a box on your porch (or another accessible spot) for pickup. If you cannot confine it, please let us know what time you will be back so an officer may meet you then.
 ```
 # Humane Exclusion Service
 ```
 Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We offer a humane wildlife exclusion service where we help with wildlife conflict issues as an alternative to conventional pest control companies which often trap and euthanize wildlife.
 
-It is important for you to know that we do not trap and relocate wildlife, but can assist with deterring and humanely evicting wildlife from your property. We provide a detailed consultation after an initial inspection of the property, allowing us to give precise and accurate advice that is specific to your needs. All situations are different, and we want to find the best solution for you. The initial inspection cost for a site visit in our service area is $145. You may find a detailed breakdown of services on our website:
+It is important for you to know that we do not trap and relocate wildlife, but we may assist with deterring and humanely evicting wildlife from your property. We provide a detailed consultation after an initial inspection of the property, allowing us to give precise and accurate advice that is specific to your needs. All situations are different, and we want to find the best solution for you. The initial inspection cost for a site visit in our service area is $145. You may find a detailed breakdown of services on our website:
 https://pasadenahumane.org/services/wildlife/humane-wildlife-exclusion/
 
-If you are looking for advice on how to handle an exclusion yourself, please refer to the following website where you can find great information on DIY solutions. We do not, unfortunately, have the extra time and resources to spend on the phone giving DIY advice.
+If you are looking for advice on how to handle an exclusion yourself, please refer to the following website where you may find great information on DIY solutions. We do not, unfortunately, have the extra time and resources to spend on the phone giving DIY advice.
 https://awces.com/self-help 
 
 You may email wildlife@pasadenahumane.org with any further questions. To request an initial site inspection, please fill out this form:
@@ -281,10 +283,10 @@ https://forms.cloud.microsoft/r/Hf1hfpyEW7
 ```
 # Humane Pest Control - Rats
 ```
-For the cost of an initial site inspection of $145, The Pasadena Humane Wildlife Team can provide consultation to exclude rats/rodents from your property. To request an initial site inspection, please fill out this form:
+For the cost of an initial site inspection of $145, The Pasadena Humane Wildlife Team may provide customized consultation to help you prevent rats/rodents from entering your property. To request an initial site inspection, please fill out this form:
 https://forms.cloud.microsoft/r/Hf1hfpyEW7
 
-We do not have the capacity to do the full structure seal and exclusion installation. We recommend Humane Pest Control for those services and you may contact them at:
+Since we do not have the capacity to do the actual structure seal and exclusion installation, we instead recommend you to get services from Humane Pest Control Inc. and you may contact them here:
 https://humanepestpro.com
 844-PEST-PRO (844-737-8776)
 
@@ -292,15 +294,14 @@ You may email wildlife@pasadenahumane.org with any further questions. Thank you 
 ```
 # Illegal for Public to Rehab
 ```
-California Code of Regulations, Title 14, Section 679 gives the public 48 hours to contact the California Department of Fish and Wildlife or a licensed rehabilitator to place an injured or orphaned wild animal. Keeping wild animals beyond that window is not legal, nor is it in the best interest of the animal. Licensed wildlife rehabilitators hold specific permits from Fish and Wildlife that allow them to care for wildlife in captivity. Those permits exist because captivity is extremely stressful for wild animals, and they need species-specific care. Even with the best intentions, well-meaning rescuers can unintentionally cause a wild animal to die from something called capture myopathy, a stress response to human handling.
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. California Code of Regulations, Title 14, Section 679 gives the public 48 hours to contact the California Department of Fish and Wildlife or a licensed rehabilitator to place an injured or orphaned wild animal. Keeping wild animals beyond that window is not legal, nor is it in the best interest of the animal. Licensed wildlife rehabilitators hold specific permits from Fish and Wildlife that allow them to care for wildlife in captivity. Those permits exist because captivity is extremely stressful for wild animals, and they need species-specific care. Even with the best intentions, well-meaning rescuers may unintentionally cause a wild animal to die from something called capture myopathy, a stress response to human handling.
 
-Please locate and contact a licensed wildlife rehabilitator as soon as possible. Below is a list of permit-holding centers in your area. Please understand that no licensed wildlife facility will allow an animal to continue suffering.
-
+Please contact a licensed wildlife rehabilitator using the following website as soon as possible, as they will not allow an animal to continue suffering. Thank you for your consideration and support.
 https://wildlife.ca.gov/Conservation/Laboratories/Wildlife-Health/Rehab/Facilities
 ```
 # Illegal to Relocate
 ```
-It is illegal to relocate wildlife in the state of California per Section 465.5 of 14 of the California Code of Regulations. The most appropriate thing to do is to release the animal on the same property where it was trapped. Let us know if you need assistance with this. 
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. It is illegal to relocate wildlife in the state of California per Section 465.5 of 14 of the California Code of Regulations. The most appropriate thing to do is to release the animal on the same property where it was trapped. Please let us know if you need more advice about this. Thank you for your consideration and support.
 ```
 # Meet in Goodwill Parking
 ```
@@ -310,27 +311,28 @@ Please head to the Goodwill parking lot just behind Pasadena Humane: 340 S Fair 
 
 We have two reserved parking spots in the southeast section of the Goodwill parking lot for our Wildlife Department. When you have arrived, please stay inside your car and let us know with a text. We will be out to meet you as soon as we are available. Thank you for your willingness to help our wild neighbors!
 ```
-![goodwill aerial image](assets/images/goodwill-aerial-circle.jpg)
-
-![goodwill sign image](assets/images/goodwill-parking-sign.jpg)
+<img width="600" height="auto" alt="parking" src="https://github.com/user-attachments/assets/ee3ef46b-bb13-4b80-8370-4f2d8f2db47b" />
 
 # Not in Our Service Area
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Unfortunately, you are outside of our service area. We can only accept animals from inside our service cities at this time. You may read more about it here:
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Unfortunately, you are outside of our service area. We may only accept animals from inside our service cities at this time. You may read more about it here:
 https://pasadenahumane.org/services/animal-care-and-control/animal-control
 
 We suggest finding another licensed rehabilitation center through this website:
 https://wildlife.ca.gov/Conservation/Laboratories/Wildlife-Health/Rehab/Facilities
 
-Below is also a list of animal shelters in Los Angeles County where you can find the appropriate contact for animal control services: https://acwm.lacounty.gov/animal-control-shelter-services/
+Below is also a list of animal shelters in Los Angeles County where you may find the appropriate contact for animal control services: 
+https://acwm.lacounty.gov/animal-control-shelter-services/
 
-You may also try contacting your local exotic veterinary clinic. Thank you for your efforts.
+You may also try contacting your local exotic veterinary clinic. Thank you for your consideration and support.
 ```
 # Opossum 
 
-## Dollar bill size and larger (if uninjured)
+### Dollar bill size and larger (if uninjured)
 ```
-Great news! This opossum is old enough to be on its own. This is the age that they will start to fall off of mom's back and venture off on their own. You may place the opossum back outside under a bush or other coverage so they can continue exploring their surroundings and grow.
+Great news! This opossum is old enough to be on its own. This is the age that they will start to fall off of mom's back and venture off on their own. You may place the opossum back outside under a bush or other coverage so they may continue exploring their surroundings and grow.
+
+Thank you for your consideration and support.
 ```
 ![opo dollar 1 image](assets/images/opossum-dollar-1.jpg)
 ![opo dollar 2 image](assets/images/opossum-dollar-2.jpg)
@@ -339,9 +341,9 @@ Great news! This opossum is old enough to be on its own. This is the age that th
 Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. This flyer includes information and helpful tips: 
 https://pasadenahumane.org/wp-content/uploads/2023/04/23_4_Wildlife-Flyers_Web_Peafowl.pdf
 
-Peafowls do not like water: Water is one of the best-known deterrents for peafowl. The intermittent use of sprinklers or a hose with a jet nozzle will act as a negative reinforcement for the birds. Also, consider a motion sensor activated water spray, such as the Scarecrow, which is battery operated and covers an area of about 35 feet and can be connected to your garden hose. It's available online or at garden stores.
+Peafowls do not like water: Water is one of the best-known deterrents for peafowl. The intermittent use of sprinklers or a hose with a jet nozzle will act as a negative reinforcement for the birds. Also, consider a motion sensor activated water spray, such as the Scarecrow, which is battery operated and covers an area of about 35 feet and may be connected to your garden hose. It's available online or at garden stores.
 
-Avoid planting young tender seedlings in areas you do not want peafowl to visit or cover the plants until they are well established. There are also a variety of plants peafowl do not eat/like and can help with deterrence. You can read more about it here: 
+Avoid planting young tender seedlings in areas you do not want peafowl to visit or cover the plants until they are well established. There are also a variety of plants peafowl do not eat/like and may help with deterrence. You may read more about it here: 
 https://www.rpvca.gov/510/Dealing-with-Peafowl
 
 Peafowls will avoid certain repellents: Cat repellent around planting beds, porches, and along walkways may be an effective means of repelling peafowl. Be cautious to not to allow young children or animals to ingest the repellents.
@@ -356,33 +358,38 @@ You may email wildlife@pasadenahumane.org with any further questions. Thank you 
 ```
 # Predation Event
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We understand it can be upsetting to witness a predation event, but these interactions are a natural part of a healthy ecosystem. For this reason, we do not intervene in native wildlife predation and allow these situations to unfold without human interference. If the predator has left the area with no sign of return after 30 mins, please reach out again and we can reassess the situation. Thank you for your efforts.
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We understand it may be upsetting to witness a predation event, but these interactions are a natural part of a healthy ecosystem. For this reason, we do not intervene in native wildlife predation and allow these situations to unfold without human interference. If the predator has left the area with no sign of return after 30 minutes, please reach out again and we may reassess the situation.
+
+Thank you for your consideration and support.
 ```
 # Raccoon
-## Baby (if uninjured)
+### Uninjured Baby
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Place the baby in a shaded area near where it was found and place an empty laundry basket over the baby raccoon. This prevents other animals from taking it and keeps the baby out of danger. Play some baby raccoon calls on a speaker and wait a few hours. Raccoons are nocturnal, so they are more active at night. Leave the baby out overnight to see if the mom will come back for it. The mom is able to lift the basket over to retrieve the baby. Please reach out again if the baby's attitude changes, or if it is still there by the following morning. Thank you for your efforts.
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Place the baby in a shaded area near where it was found and place an empty laundry basket over the baby raccoon. This prevents other animals from taking it and keeps the baby out of danger. Play some baby raccoon calls on a speaker and wait a few hours. Raccoons are nocturnal, so they are more active at night. Leave the baby out overnight to see if the mom will come back for it. The mom is able to lift the basket over to retrieve the baby. Please reach out again if the baby's attitude changes, or if it is still there by the following morning. 
+
+Thank you for your consideration and support.
 ```
 # Rabbit RHDV
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Due to Rabbit Hemorrhagic Disease Virus (RHDV), we are unable to rehab wild rabbits at our center. Since our campus also houses domestic rabbits available for adoption in the shelter, the risk of spreading this highly contagious and often fatal virus is too great. You can read more about it here: https://www.cdfa.ca.gov/AHFSS/Animal_Health/RHD.html
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Due to Rabbit Hemorrhagic Disease Virus (RHDV), we are unable to rehab wild rabbits at our center. Since our campus also houses domestic rabbits available for adoption in the shelter, the risk of spreading this highly contagious and often fatal virus is too great. You may read more about it here: 
+https://www.cdfa.ca.gov/AHFSS/Animal_Health/RHD.html
 
 Thank you for your consideration and support.
 ```
 # Rats and Mice
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We do not rehabilitate mice or rats, and neither do our partner wildlife rehab centers. If you are within our service area, we can accept the animal for humane euthanasia. If you are outside our service area, please surrender the animal to your local animal control or a local veterinarian. You may see if you are in our service area here:
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We do not rehabilitate mice or rats, and neither do our partner wildlife rehab centers. If you are within our service area, we may accept the animal for humane euthanasia. If you are outside our service area, please surrender the animal to your local animal control or a local veterinarian. You may see if you are in our service area here:
 https://pasadenahumane.org/services/animal-care-and-control/animal-control
 
 Thank you for your consideration and support.
 ```
 # Skunk
 
-## Baby (if uninjured)
+### Uninjured Baby
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Please place the baby in a shaded area near where it was found and place a light laundry basket over it. This prevents other animals from taking it and keeps the baby out of danger. Skunks are nocturnal, so they are more active at night, but may try to find their babies in the day time. Leave the baby out overnight to see if the mom will come back for it, mom can lift the laundry basket to retrieve the baby. Do not feed the baby or take it inside. Do not handle the skunk unless absolutely necessary using thick gloves or a towel. Skunks are considered rabies vector species and any bites or scratches must be reported and treated by a medical professional as soon as possible.
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Please place the baby in a shaded area near where it was found and place a light laundry basket over it. This prevents other animals from taking it and keeps the baby out of danger. Skunks are nocturnal, so they are more active at night, but may try to find their babies in the day time. Leave the baby out overnight to see if the mom will come back for it, mom will lift the laundry basket to retrieve the baby. Do not feed the baby or take it inside. Do not handle the skunk unless absolutely necessary using thick gloves or a towel. Skunks are considered rabies vector species and any bites or scratches must be reported and treated by a medical professional as soon as possible.
 
-Please reach out to us again if the baby's attitude changes or if it is still there by the following morning. Thank you for your efforts.
+Please reach out to us again if the baby's attitude changes or if it is still there by the following morning. Thank you for your consideration and support.
 ```
 # Snakes
 
@@ -394,17 +401,21 @@ For helpline personnel: Review the following links to help identify the species 
 
 # Squirrel
 
-## If found in the AM
+### If found in the AM
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Please place the baby in a shoebox or similar container and place the box back as close to where the baby was found as reasonable. You can place a makeshift heating pad (warm rice-filled sock) in the box if you would like, ensure it is not too hot by holding to your skin for 5-10 seconds. Using a wireless or phone speaker, play baby fox squirrel calls which can be found on YouTube. Place the speaker near the baby for a few hours and do not disturb it. The parent should return for the baby and carry it back to the nest. Please let us know if the baby's condition declines or if the baby is still there by 4:00 PM.
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Please place the baby in a shoebox or similar container and place the box back as close to where the baby was found as reasonable. You may place a makeshift heating pad (warm rice-filled sock) in the box if you would like, ensure it is not too hot by holding to your skin for 5-10 seconds. Using a wireless or phone speaker, play baby fox squirrel calls which may be found on YouTube. Place the speaker near the baby for a few hours and do not disturb it. The parent should return for the baby and carry it back to the nest. Please let us know if the baby's condition declines or if the baby is still there by 4:00 PM.
 
-Thank you for your efforts.
+Thank you for your consideration and support.
 ```
-## If found in the PM and it looks healthy
+### If found in the PM and it looks healthy
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We would like to give the parents the chance to come back for their baby. Since there are a few hours of daylight left, please place the baby in a shoebox or similar container and place the box back as close to where the baby was found as reasonable. You can place a makeshift heating pad (warm rice-filled sock) in the box if you would like to, ensure it it not too hot by holding to your skin for 5-10 seconds. Using a wireless or phone speaker, play baby fox squirrel calls which can be found on YouTube. Place the speaker near the baby for a few hours and do not disturb it. Many times the parent will return for the baby and carry it back to the nest. If the baby is still there when it is dark outside, you may bring the baby inside and place it in an enclosed box in a warm, quiet area away from pets and people. Refrain from interacting or handling it unless absolutely necessary. Place the baby outside again tomorrow morning shortly after sunrise to try again. Please contact us after 9:30am if the baby is still there. Please do not attempt to feed or water the squirrel. If its condition declines after hours please call dispatch at 626-792-7151 x970.
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We would like to give the parents the chance to come back for their baby. Since there are a few hours of daylight left, please place the baby in a shoebox or similar container and place the box back as close to where the baby was found as reasonable. You may place a makeshift heating pad (warm rice-filled sock) in the box if you would like to, ensure it it not too hot by holding to your skin for 5-10 seconds. Using a wireless or phone speaker, play baby fox squirrel calls which may be found on YouTube. Place the speaker near the baby for a few hours and do not disturb it. Please do not attempt to feed or water the squirrel.
+
+The parent should return for the baby and carry it back to the nest. If the baby is still there when it is dark outside, you may bring the baby inside and place it in an enclosed box in a warm, quiet area away from pets and people. Refrain from interacting or handling it unless absolutely necessary. Place the baby outside again tomorrow morning shortly after sunrise to try again. 
+
+Please contact us after 9:30 AM if the baby is still there. If its condition declines after hours, please call dispatch at 626-792-7151 x970. Thank you for your consideration and support.
 ```
-*Shoe box/container examples:*
+### Shoe box/container examples:
 
 ![shoebox image](assets/images/squirrel-reunite-shoebox.jpg)
 
@@ -412,11 +423,11 @@ Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We would
 
 ![jug image](assets/images/squirrel-reunite-jug.jpg)
 
-*Makeshift heating pad example:*
+### Makeshift heating pad example:
 
 ![sock image](assets/images/squirrel-reunite-sock.jpg)
 
-*Reunited examples:*
+### Reunited examples:
 
 ![squirrel reunited image](assets/images/squirrel-reunite-parent.jpg)
 
@@ -426,13 +437,15 @@ Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We would
 
 # Update on Animal
 ```
-Hello, for updates please email wildlife@pasadenahumane.org. Please include your name, phone number, address the animal was found, and animal ID number. 
+Thank you for your care and compassion for our wildlife neighbors. For updates, please email wildlife@pasadenahumane.org and include your name, phone number, address the animal was found, and following animal ID number.
 
 Your ID # is 
 
-Please allow at least 7 days for a response as our staff primarily attends to the direct care of incoming patients.
+Please allow at least 7 days for a response as our staff primarily attends to the direct care of incoming patients. Thank you.
 ```
 # Will You Treat the Animal or Just Kill It?
 ```
-Wild animals need to be examined and cared for by trained wildlife medical experts, such as our team, who have been licensed and permitted by State and Federal agencies. Our policy is to always put the animal's welfare above all else. All wildlife that comes to our facility receives a full medical exam by our team of Certified Wildlife Rehabilitators. With the help of our trained wildlife veterinarians, our team will provide the most appropriate medical treatment depending on the prognosis of the animal. Humane, compassionate euthanasia is just one of many treatments we are licensed and trained to provide to our patients, but we will not know what is most appropriate until we are able to do a full examination. Thank you for trying to help an animal in distress! For updates you can email wildlife@pasadenahumane.org
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Our team consists of trained and certified wildlife veterinarians who will give all admitted wildlife animals a full medical exam and treatment in our facility inspected and licensed by state and federal agencies. Wildlife in need of long-term care will be sent to state-certified wildlife rehabilitators. Humane and compassionate euthanasia is only given when medically appropriate and to cease animal distress.
+
+You may email wildlife@pasadenahumane.org with any further questions. Thank you for your consideration and support.
 ```
