@@ -49,6 +49,12 @@ These are template responses to common Requesting Party's (RP) text messages. Cu
    * [Makeshift heating pad example:](#makeshift-heating-pad-example)
    * [Reunited examples:](#reunited-examples)
 
+
+***
+
+***
+
+
 # First Response - Send WRMD Form
 ```
 Hello, thank you for reaching out to the Pasadena Humane Wildlife Helpline.
@@ -67,6 +73,92 @@ https://wrmd.org/embed/public-animal-report-form/GVJ8x8qoqWPeuIWdqqCMSqwTLPE8am8
 
 Thank you for your help. We will be in touch as soon as possible.
 ```
+# Donate
+```
+Thank you for assisting wildlife in distress. Your ongoing support is vital to the wildlife in our community. As a non-profit organization, we rely on donations to care for the thousands of wild animals who need our care each year. Please consider giving today to help ensure we may continue this critical program:
+
+https://pasadenahumane.org/supportwildlife
+```
+# ETA?
+```
+Unfortunately, we are unable to give an ETA since it depends on various factors, but an animal control officer has been dispatched. It typically takes roughly 30 minutes to 3 hours for them to arrive.
+
+If you need to leave, you may safely place the animal in a box on your porch (or another accessible spot) for pickup. If you cannot confine it, please let us know what time you will be back so an officer may meet you then.
+```
+# Humane Exclusion Service
+```
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We offer a humane wildlife exclusion service where we help with wildlife conflict issues as an alternative to conventional pest control companies which often trap and euthanize wildlife.
+
+It is important for you to know that we do not trap and relocate wildlife, but we may assist with deterring and humanely evicting wildlife from your property. We provide a detailed consultation after an initial inspection of the property, allowing us to give precise and accurate advice that is specific to your needs. All situations are different, and we want to find the best solution for you. The initial inspection cost for a site visit in our service area is $145. You may find a detailed breakdown of services on our website:
+https://pasadenahumane.org/services/wildlife/humane-wildlife-exclusion/
+
+If you are looking for advice on how to handle an exclusion yourself, please refer to the following website where you may find great information on DIY solutions. We do not, unfortunately, have the extra time and resources to spend on the phone giving DIY advice.
+https://awces.com/self-help 
+
+You may email wildlife@pasadenahumane.org with any further questions. To request an initial site inspection, please fill out this form:
+https://forms.cloud.microsoft/r/Hf1hfpyEW7
+```
+# Humane Pest Control - Rats
+```
+For the cost of an initial site inspection of $145, The Pasadena Humane Wildlife Team may provide customized consultation to help you prevent rats/rodents from entering your property. To request an initial site inspection, please fill out this form:
+https://forms.cloud.microsoft/r/Hf1hfpyEW7
+
+Since we do not have the capacity to do the actual structure seal and exclusion installation, we instead recommend you to get services from Humane Pest Control Inc. and you may contact them here:
+https://humanepestpro.com
+844-PEST-PRO (844-737-8776)
+
+You may email wildlife@pasadenahumane.org with any further questions. Thank you for addressing your conflicts with compassion!
+```
+# Illegal for Public to Rehab
+```
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. California Code of Regulations, Title 14, Section 679 gives the public 48 hours to contact the California Department of Fish and Wildlife or a licensed rehabilitator to place an injured or orphaned wild animal. Keeping wild animals beyond that window is not legal, nor is it in the best interest of the animal. Licensed wildlife rehabilitators hold specific permits from Fish and Wildlife that allow them to care for wildlife in captivity. Those permits exist because captivity is extremely stressful for wild animals, and they need species-specific care. Even with the best intentions, well-meaning rescuers may unintentionally cause a wild animal to die from something called capture myopathy, a stress response to human handling.
+
+Please contact a licensed wildlife rehabilitator using the following website as soon as possible, as they will not allow an animal to continue suffering. Thank you for your consideration and support.
+https://wildlife.ca.gov/Conservation/Laboratories/Wildlife-Health/Rehab/Facilities
+```
+# Illegal to Relocate
+```
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. It is illegal to relocate wildlife in the state of California per Section 465.5 of 14 of the California Code of Regulations. The most appropriate thing to do is to release the animal on the same property where it was trapped. Please let us know if you need more advice about this. Thank you for your consideration and support.
+```
+# Meet in Goodwill Parking
+```
+Since you will be in close quarters with a wild animal, please minimize further stress for it by not playing loud music, keeping voices to a whisper, keeping the animal in a covered container, and refrain from peeking in at it. If possible, please place the animal in a secure location such as the passenger side floor in the vehicle to prevent constant/sudden movements during the car ride. Do not smoke or bring along pets while transporting the animal. 
+
+Please head to the Goodwill parking lot just behind Pasadena Humane: 340 S Fair Oaks, Pasadena, CA 91105
+
+We have two reserved parking spots in the southeast section of the Goodwill parking lot for our Wildlife Department. When you have arrived, please stay inside your car and let us know with a text. We will be out to meet you as soon as we are available. Thank you for your willingness to help our wild neighbors!
+```
+<img width="600" height="auto" alt="parking" src="https://github.com/user-attachments/assets/ee3ef46b-bb13-4b80-8370-4f2d8f2db47b" />
+
+# Not in Our Service Area
+```
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Unfortunately, you are outside of our service area. We may only accept animals from inside our service cities at this time. You may read more about it here:
+https://pasadenahumane.org/services/animal-care-and-control/animal-control
+
+We suggest finding another licensed rehabilitation center through this website:
+https://wildlife.ca.gov/Conservation/Laboratories/Wildlife-Health/Rehab/Facilities
+
+Below is also a list of animal shelters in Los Angeles County where you may find the appropriate contact for animal control services: 
+https://acwm.lacounty.gov/animal-control-shelter-services/
+
+You may also try contacting your local exotic veterinary clinic. Thank you for your consideration and support.
+```
+# Update on Animal
+```
+Thank you for your care and compassion for our wildlife neighbors. For updates, please email wildlife@pasadenahumane.org and include your name, phone number, address the animal was found, and following animal ID number.
+
+Your ID # is 
+
+Please allow at least 7 days for a response as our staff primarily attends to the direct care of incoming patients. Thank you.
+```
+# Will You Treat the Animal or Just Kill It?
+```
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Our team consists of trained and certified wildlife veterinarians who will give all admitted wildlife animals a full medical exam and treatment in our facility inspected and licensed by state and federal agencies. Wildlife in need of long-term care will be sent to state-certified wildlife rehabilitators. Humane and compassionate euthanasia is only given when medically appropriate and to cease animal distress.
+
+You may email wildlife@pasadenahumane.org with any further questions. Thank you for your consideration and support.
+```
+***
+***
 # Avian Influenza
 ⚠️⚠️ **NOTICE:** Due to the increase of Highly Pathogenic Avian Influenza (HPAI) cases, we are admitting waterfowl for euthanasia only. [Read more about HPAI.](https://calepa.ca.gov/disaster/ainfluenza/)
 1. **Not Gravely Injured Waterfowls**
@@ -94,7 +186,7 @@ You may email wildlife@pasadenahumane.org with any further questions. Thank you 
 ```
 # Bees
 ```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We do not handle Bees, so we would refer you to service providers that may take care of your Bee situation. Please note that they will likely charge a fee for this service.
+Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We do not handle Bees, so we will refer you to local service providers that will humanely resolve your Bee situation. Please note that they will likely charge a fee for this service.
 
 Dave Williams
 - Tel: 626-791-8979
@@ -203,12 +295,6 @@ Deer are native wildlife and are under the jurisdiction of the California Depart
 
 You may email wildlife@pasadenahumane.org with any further questions. Thank you for your consideration and support.
 ```
-# Donate
-```
-Thank you for assisting wildlife in distress. Your ongoing support is vital to the wildlife in our community. As a non-profit organization, we rely on donations to care for the thousands of wild animals who need our care each year. Please consider giving today to help ensure we may continue this critical program:
-
-https://pasadenahumane.org/supportwildlife
-```
 # Ducks
 
 ### Ducks in Yards and Pools
@@ -261,70 +347,6 @@ It is illegal to:
 If You See Injured or Distressed Ducks:
 - If a duck appears injured (limping, unable to fly, bleeding, or stuck), or if ducklings are orphaned or abandoned, please let us know.
 - Do not attempt to capture or care for injured ducks yourself unless instructed to do so - it’s easy to accidentally cause more harm.
-```
-# ETA?
-```
-Unfortunately, we are unable to give an ETA since it depends on various factors, but an animal control officer has been dispatched. It typically takes roughly 30 minutes to 3 hours for them to arrive.
-
-If you need to leave, you may safely place the animal in a box on your porch (or another accessible spot) for pickup. If you cannot confine it, please let us know what time you will be back so an officer may meet you then.
-```
-# Humane Exclusion Service
-```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. We offer a humane wildlife exclusion service where we help with wildlife conflict issues as an alternative to conventional pest control companies which often trap and euthanize wildlife.
-
-It is important for you to know that we do not trap and relocate wildlife, but we may assist with deterring and humanely evicting wildlife from your property. We provide a detailed consultation after an initial inspection of the property, allowing us to give precise and accurate advice that is specific to your needs. All situations are different, and we want to find the best solution for you. The initial inspection cost for a site visit in our service area is $145. You may find a detailed breakdown of services on our website:
-https://pasadenahumane.org/services/wildlife/humane-wildlife-exclusion/
-
-If you are looking for advice on how to handle an exclusion yourself, please refer to the following website where you may find great information on DIY solutions. We do not, unfortunately, have the extra time and resources to spend on the phone giving DIY advice.
-https://awces.com/self-help 
-
-You may email wildlife@pasadenahumane.org with any further questions. To request an initial site inspection, please fill out this form:
-https://forms.cloud.microsoft/r/Hf1hfpyEW7
-```
-# Humane Pest Control - Rats
-```
-For the cost of an initial site inspection of $145, The Pasadena Humane Wildlife Team may provide customized consultation to help you prevent rats/rodents from entering your property. To request an initial site inspection, please fill out this form:
-https://forms.cloud.microsoft/r/Hf1hfpyEW7
-
-Since we do not have the capacity to do the actual structure seal and exclusion installation, we instead recommend you to get services from Humane Pest Control Inc. and you may contact them here:
-https://humanepestpro.com
-844-PEST-PRO (844-737-8776)
-
-You may email wildlife@pasadenahumane.org with any further questions. Thank you for addressing your conflicts with compassion!
-```
-# Illegal for Public to Rehab
-```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. California Code of Regulations, Title 14, Section 679 gives the public 48 hours to contact the California Department of Fish and Wildlife or a licensed rehabilitator to place an injured or orphaned wild animal. Keeping wild animals beyond that window is not legal, nor is it in the best interest of the animal. Licensed wildlife rehabilitators hold specific permits from Fish and Wildlife that allow them to care for wildlife in captivity. Those permits exist because captivity is extremely stressful for wild animals, and they need species-specific care. Even with the best intentions, well-meaning rescuers may unintentionally cause a wild animal to die from something called capture myopathy, a stress response to human handling.
-
-Please contact a licensed wildlife rehabilitator using the following website as soon as possible, as they will not allow an animal to continue suffering. Thank you for your consideration and support.
-https://wildlife.ca.gov/Conservation/Laboratories/Wildlife-Health/Rehab/Facilities
-```
-# Illegal to Relocate
-```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. It is illegal to relocate wildlife in the state of California per Section 465.5 of 14 of the California Code of Regulations. The most appropriate thing to do is to release the animal on the same property where it was trapped. Please let us know if you need more advice about this. Thank you for your consideration and support.
-```
-# Meet in Goodwill Parking
-```
-Since you will be in close quarters with a wild animal, please minimize further stress for it by not playing loud music, keeping voices to a whisper, keeping the animal in a covered container, and refrain from peeking in at it. If possible, please place the animal in a secure location such as the passenger side floor in the vehicle to prevent constant/sudden movements during the car ride. Do not smoke or bring along pets while transporting the animal. 
-
-Please head to the Goodwill parking lot just behind Pasadena Humane: 340 S Fair Oaks, Pasadena, CA 91105
-
-We have two reserved parking spots in the southeast section of the Goodwill parking lot for our Wildlife Department. When you have arrived, please stay inside your car and let us know with a text. We will be out to meet you as soon as we are available. Thank you for your willingness to help our wild neighbors!
-```
-<img width="600" height="auto" alt="parking" src="https://github.com/user-attachments/assets/ee3ef46b-bb13-4b80-8370-4f2d8f2db47b" />
-
-# Not in Our Service Area
-```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Unfortunately, you are outside of our service area. We may only accept animals from inside our service cities at this time. You may read more about it here:
-https://pasadenahumane.org/services/animal-care-and-control/animal-control
-
-We suggest finding another licensed rehabilitation center through this website:
-https://wildlife.ca.gov/Conservation/Laboratories/Wildlife-Health/Rehab/Facilities
-
-Below is also a list of animal shelters in Los Angeles County where you may find the appropriate contact for animal control services: 
-https://acwm.lacounty.gov/animal-control-shelter-services/
-
-You may also try contacting your local exotic veterinary clinic. Thank you for your consideration and support.
 ```
 # Opossum 
 
@@ -429,18 +451,3 @@ Please contact us after 9:30 AM if the baby is still there. If its condition dec
 
 * [Squirrel reunited video # 1](assets/videos/squirrel-reunite-1.MOV) (click to download)
 * [Squirrel reunited video # 2](assets/videos/squirrel-reunite-2.MOV) (click to download)
-
-# Update on Animal
-```
-Thank you for your care and compassion for our wildlife neighbors. For updates, please email wildlife@pasadenahumane.org and include your name, phone number, address the animal was found, and following animal ID number.
-
-Your ID # is 
-
-Please allow at least 7 days for a response as our staff primarily attends to the direct care of incoming patients. Thank you.
-```
-# Will You Treat the Animal or Just Kill It?
-```
-Hello, thank you for reaching out to Pasadena Humane Wildlife Helpline. Our team consists of trained and certified wildlife veterinarians who will give all admitted wildlife animals a full medical exam and treatment in our facility inspected and licensed by state and federal agencies. Wildlife in need of long-term care will be sent to state-certified wildlife rehabilitators. Humane and compassionate euthanasia is only given when medically appropriate and to cease animal distress.
-
-You may email wildlife@pasadenahumane.org with any further questions. Thank you for your consideration and support.
-```
